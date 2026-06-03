@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8eyODk1P6nM=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\OO programming\\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-r1101924\\03\\03_01\\consoleapp\\consoleapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muesd\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\muesd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\muesd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\muesd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
